@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /*checkout?*
+
+Host: pdfextra.com
+Sitemap: https://pdfextra.com/sitemap.xml
